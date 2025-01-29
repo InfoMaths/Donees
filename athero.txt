@@ -1,0 +1,8 @@
+                           "alcool" "ne boit pas" "boit occasionnellement" "boit régulièrement"
+"SEXE" "tabac"                                                                                 
+"H"    "ne fume pas"                            6                        1                    3
+       "a arrêté de fumer"                     19                        6                    5
+       "fume"                                   7                        5                    1
+"F"    "ne fume pas"                            0                       12                    1
+       "a arrêté de fumer"                      9                       26                    6
+       "fume"                                   0                        2                    1
